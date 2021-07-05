@@ -1,16 +1,16 @@
-### Hi there 👋
+# Hello there! 
+![forthebadge](https://forthebadge.com/images/badges/powered-by-electricity.svg)
+![forthebadge](https://forthebadge.com/images/badges/made-with-c-plus-plus.svg) <br />
+![forthebadge](https://forthebadge.com/images/badges/powered-by-qt.svg)
 
-<!--
-**Saptarshi-max/saptarshi-max** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm Saptarshi, I like to develop C++ codes for both Desktop and Embedded environment.  
+If you are still curious, Here is a little more about me:
+- 📔 MSc in Embedded Systems from Kingston university, UK Batch of 2018.
+- ⚙️ Embedded software developer.
+- :computer: Apart from CPP, I am also skilled in Python, Java and C#.
+- :palm_tree: I’m currently learning Javascript and Rust.
+- :memo: I like to write blog posts on [Dev.to](https://dev.to/saptarshi01) and on [my personal website](https://saptarshi-max.github.io) too.
+ - :mailbox: Feel free to reach me through: [Twitter](https://twitter.com/Saptarshi108), [Website](https://saptarshi-max.github.io), [E-Mail](mailto:saptarshi.nag01@gmail.com).
+- :grin: Pronouns: he/him/his.
+- 🎨 Skeching and Doodling in my free time.
